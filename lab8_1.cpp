@@ -7,5 +7,6 @@ int main() {
 
     output =   a-(b/c);
     cout << "output: "<< output << "\n";
+    
     return 0;
 }
