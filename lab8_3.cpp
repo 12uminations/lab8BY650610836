@@ -12,7 +12,6 @@ char before(char x){
 		ans=x -1;
 		return ans;
 	}
-	
 	else{
 		ans='0';
 		return ans;
