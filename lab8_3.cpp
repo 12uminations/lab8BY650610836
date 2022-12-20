@@ -4,7 +4,6 @@ using namespace std;
 char before(char x){
 	//Write your function definition here
 	char ans;
-	int num;
 	if(x == 'A'){
 		ans = 'Z';
 		return ans;
